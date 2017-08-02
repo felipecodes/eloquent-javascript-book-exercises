@@ -42,11 +42,14 @@ Object.defineProperty(Vector.prototype, 'length', {
 })
 
 
-console.log('\n', new Vector(1, 2).plus(new Vector(2, 3)));
+// console.log('\n', new Vector(1, 2).plus(new Vector(2, 3)));
 // → Vector { x: 3, y: 5 }
 
-console.log('\n', new Vector(1, 2).minus(new Vector(2, 3)));
+// console.log('\n', new Vector(1, 2).minus(new Vector(2, 3)));
 // → Vector { x: -1, y: -1 }
 
-console.log('\n', new Vector(3, 4).length);
+// console.log('\n', new Vector(3, 4).length);
 // → 5
+
+// used in 07 chapter
+module.exports = Vector
