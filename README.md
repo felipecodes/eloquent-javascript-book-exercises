@@ -1,4 +1,4 @@
-# Eloquent JavaScript
+# [Eloquent JavaScript](https://github.com/marijnh/Eloquent-JavaScript)
 > Book from Marijn Haverbeke
 
 - [x] 2
